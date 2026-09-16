@@ -3,7 +3,7 @@ ERISCHAT DURUM — 2026-09-17
 - main: aef369bf05d1a6b6af36ce40cd2f9bb41678d339
 - GitHub Pages workflow pages.yml mevcut; push tetik testi yapıldı ancak yeni commitlerde Actions run/status oluşmadı.
 - gh-pages eski index.html, frontend/erischat-v54.html'e yönlendiriyordu.
-- gh-pages güncellendi: commit b0f4c2b15a436ac5b815f2c9524645ab1664e092.
+- gh-pages canlı frontend senkronu: bdd574ce5956de909eca8a61621c38f531579073.
 - gh-pages index.html artık frontend/erischat-main.html'e yönlendiriyor.
 - gh-pages frontend/erischat-main.html main'deki güncel blob ile senkronlandı.
 - gh-pages frontend/gift-live.js main'deki canlı hediye WebSocket helper ile eklendi.
